@@ -7,7 +7,6 @@ Atividade de revisão e nivelamento da disciplina de AEDs II, abordando programa
 
 ## Origem da atividade
 Base da professora: https://github.com/IsabelaBB/template_AEDs-II_Unidade0
-Implementações das atividades anteriores adaptadas de https://github.com/Stteinz/template_AEDs-II_Unidade0.
 
 ## Como executar
 Use JDK 21 no IntelliJ. Abra a classe desejada e execute seu método main.
